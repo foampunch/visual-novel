@@ -34,8 +34,6 @@ label start:
 
         return
 
-    #Breaking code
-
     else:
         e "Nice try, dipshit!"
         
