@@ -37,7 +37,7 @@ label start:
     else:
         e "Nice try, dipshit!"
         
-        jump start
+        jump startfneroufspdkjbawrhgu o;erf
 
     e "Nice to meet you, %(name)s!"
 
